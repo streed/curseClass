@@ -3,7 +3,7 @@
 Goals
 =====
 
-Train a lamp to react to cursing that is heard and have said lamp react to said curisng.
+Train a lamp to react to cursing overheard in a office environment.
 
 Problems
 ========
